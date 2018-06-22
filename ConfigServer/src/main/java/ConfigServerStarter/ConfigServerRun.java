@@ -12,6 +12,7 @@ public class ConfigServerRun {
 		
 		public static void main(String args[])
 		{
+		System.out.println("bipin singh")
 		SpringApplication.run(ConfigServerRun.class, args);
 		}
 		
